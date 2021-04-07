@@ -2,6 +2,17 @@ body{
     background-color: #FFC0CB;
 }
 
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    width: 80%;
+    margin: 0 auto;
+}
+
 [class*="col-"]{
     border: 2px solid black;
     text-align: center;
