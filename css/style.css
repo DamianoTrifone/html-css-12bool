@@ -1,5 +1,5 @@
 body{
-    background-color: #FFC0CB;
+    background-color:white;
 }
 
 *{
@@ -11,6 +11,7 @@ body{
 .container{
     width: 80%;
     margin: 0 auto;
+    background-color:  #FFC0CB;
 }
 
 [class*="col-"]{
