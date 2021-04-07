@@ -17,7 +17,8 @@ body{
 [class*="col-"]{
     border: 2px solid black;
     text-align: center;
-    min-height: 150px;
+    max-height: 150px;
+    line-height: 150px;
 }
 
 .bianco{
