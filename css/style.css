@@ -1,0 +1,10 @@
+body{
+    background-color: #FFC0CB;
+}
+
+[class*="col-"]{
+    border: 2px solid black;
+    text-align: center;
+    min-height: 200px;
+}
+
